@@ -1,2 +1,2 @@
 # studing
- estudos de git
+ estudos de git e github 
